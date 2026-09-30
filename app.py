@@ -1,9 +1,2 @@
-# Жоба: Кітапхана
-TITLE = "Кітапхана (нұсқа A)"
-VERSION = "1.0"
+TITLE = "Кітапхана (A+B)"
 
-def main():
-    print("Қош келдіңіз:", TITLE, VERSION)
-
-if __name__ == "__main__":
-    main()
